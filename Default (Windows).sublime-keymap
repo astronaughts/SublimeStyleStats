@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+shift+a"], "command": "sss_current_file_analysis" }
+]

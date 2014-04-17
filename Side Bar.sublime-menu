@@ -1,0 +1,8 @@
+[
+    {"caption": "-"},
+    {"caption": "StyleStats",
+        "children": [
+            { "caption": "Analyze", "command": "sss_current_file_analysis" }
+        ]
+    }
+]

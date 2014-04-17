@@ -1,0 +1,4 @@
+[
+    { "caption": "StyleStats: Analysis of the specific file", "command": "sss_specific_analysis" },
+    { "caption": "StyleStats: Analyze this file", "command": "sss_current_file_analysis" }
+]

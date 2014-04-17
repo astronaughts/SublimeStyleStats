@@ -1,0 +1,4 @@
+{
+    // `stylestats` specifying a path.
+    "bin_path": "/usr/bin/stylestats"
+}
